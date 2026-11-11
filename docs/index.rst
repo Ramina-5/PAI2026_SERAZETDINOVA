@@ -1,5 +1,5 @@
 Welcome to Outil d'exploration des tendances de la recherche scientifique documentation!
-============================================================
+====================================================================================================
 
 
 .. toctree::
